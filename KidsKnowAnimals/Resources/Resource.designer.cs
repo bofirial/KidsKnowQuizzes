@@ -2944,26 +2944,26 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			// aapt resource value: 0x7f020054
 			public const int avd_hide_password = 2130837588;
 			
-			// aapt resource value: 0x7f020070
-			public const int avd_hide_password_1 = 2130837616;
+			// aapt resource value: 0x7f020074
+			public const int avd_hide_password_1 = 2130837620;
 			
-			// aapt resource value: 0x7f020071
-			public const int avd_hide_password_2 = 2130837617;
+			// aapt resource value: 0x7f020075
+			public const int avd_hide_password_2 = 2130837621;
 			
-			// aapt resource value: 0x7f020072
-			public const int avd_hide_password_3 = 2130837618;
+			// aapt resource value: 0x7f020076
+			public const int avd_hide_password_3 = 2130837622;
 			
 			// aapt resource value: 0x7f020055
 			public const int avd_show_password = 2130837589;
 			
-			// aapt resource value: 0x7f020073
-			public const int avd_show_password_1 = 2130837619;
+			// aapt resource value: 0x7f020077
+			public const int avd_show_password_1 = 2130837623;
 			
-			// aapt resource value: 0x7f020074
-			public const int avd_show_password_2 = 2130837620;
+			// aapt resource value: 0x7f020078
+			public const int avd_show_password_2 = 2130837624;
 			
-			// aapt resource value: 0x7f020075
-			public const int avd_show_password_3 = 2130837621;
+			// aapt resource value: 0x7f020079
+			public const int avd_show_password_3 = 2130837625;
 			
 			// aapt resource value: 0x7f020056
 			public const int design_bottom_navigation_item_background = 2130837590;
@@ -2984,64 +2984,76 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			public const int design_snackbar_background = 2130837595;
 			
 			// aapt resource value: 0x7f02005c
-			public const int ic_mtrl_chip_checked_black = 2130837596;
+			public const int elephant = 2130837596;
 			
 			// aapt resource value: 0x7f02005d
-			public const int ic_mtrl_chip_checked_circle = 2130837597;
+			public const int giraffe = 2130837597;
 			
 			// aapt resource value: 0x7f02005e
-			public const int ic_mtrl_chip_close_circle = 2130837598;
+			public const int gorilla = 2130837598;
 			
 			// aapt resource value: 0x7f02005f
-			public const int mtrl_snackbar_background = 2130837599;
+			public const int ic_mtrl_chip_checked_black = 2130837599;
 			
 			// aapt resource value: 0x7f020060
-			public const int mtrl_tabs_default_indicator = 2130837600;
+			public const int ic_mtrl_chip_checked_circle = 2130837600;
 			
 			// aapt resource value: 0x7f020061
-			public const int navigation_empty_icon = 2130837601;
+			public const int ic_mtrl_chip_close_circle = 2130837601;
 			
 			// aapt resource value: 0x7f020062
-			public const int notification_action_background = 2130837602;
+			public const int mtrl_snackbar_background = 2130837602;
 			
 			// aapt resource value: 0x7f020063
-			public const int notification_bg = 2130837603;
+			public const int mtrl_tabs_default_indicator = 2130837603;
 			
 			// aapt resource value: 0x7f020064
-			public const int notification_bg_low = 2130837604;
+			public const int navigation_empty_icon = 2130837604;
 			
 			// aapt resource value: 0x7f020065
-			public const int notification_bg_low_normal = 2130837605;
+			public const int notification_action_background = 2130837605;
 			
 			// aapt resource value: 0x7f020066
-			public const int notification_bg_low_pressed = 2130837606;
+			public const int notification_bg = 2130837606;
 			
 			// aapt resource value: 0x7f020067
-			public const int notification_bg_normal = 2130837607;
+			public const int notification_bg_low = 2130837607;
 			
 			// aapt resource value: 0x7f020068
-			public const int notification_bg_normal_pressed = 2130837608;
+			public const int notification_bg_low_normal = 2130837608;
 			
 			// aapt resource value: 0x7f020069
-			public const int notification_icon_background = 2130837609;
-			
-			// aapt resource value: 0x7f02006e
-			public const int notification_template_icon_bg = 2130837614;
-			
-			// aapt resource value: 0x7f02006f
-			public const int notification_template_icon_low_bg = 2130837615;
+			public const int notification_bg_low_pressed = 2130837609;
 			
 			// aapt resource value: 0x7f02006a
-			public const int notification_tile_bg = 2130837610;
+			public const int notification_bg_normal = 2130837610;
 			
 			// aapt resource value: 0x7f02006b
-			public const int notify_panel_notification_icon_bg = 2130837611;
+			public const int notification_bg_normal_pressed = 2130837611;
 			
 			// aapt resource value: 0x7f02006c
-			public const int tooltip_frame_dark = 2130837612;
+			public const int notification_icon_background = 2130837612;
+			
+			// aapt resource value: 0x7f020072
+			public const int notification_template_icon_bg = 2130837618;
+			
+			// aapt resource value: 0x7f020073
+			public const int notification_template_icon_low_bg = 2130837619;
 			
 			// aapt resource value: 0x7f02006d
-			public const int tooltip_frame_light = 2130837613;
+			public const int notification_tile_bg = 2130837613;
+			
+			// aapt resource value: 0x7f02006e
+			public const int notify_panel_notification_icon_bg = 2130837614;
+			
+			// aapt resource value: 0x7f02006f
+			public const int tooltip_frame_dark = 2130837615;
+			
+			// aapt resource value: 0x7f020070
+			public const int tooltip_frame_light = 2130837616;
+			
+			// aapt resource value: 0x7f020071
+			public const int turtle = 2130837617;
 			
 			static Drawable()
 			{
@@ -3095,17 +3107,17 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			// aapt resource value: 0x7f090069
 			public const int action_bar_title = 2131296361;
 			
-			// aapt resource value: 0x7f0900b0
-			public const int action_container = 2131296432;
+			// aapt resource value: 0x7f0900b3
+			public const int action_container = 2131296435;
 			
 			// aapt resource value: 0x7f09008e
 			public const int action_context_bar = 2131296398;
 			
-			// aapt resource value: 0x7f0900bb
-			public const int action_divider = 2131296443;
+			// aapt resource value: 0x7f0900be
+			public const int action_divider = 2131296446;
 			
-			// aapt resource value: 0x7f0900b1
-			public const int action_image = 2131296433;
+			// aapt resource value: 0x7f0900b4
+			public const int action_image = 2131296436;
 			
 			// aapt resource value: 0x7f090003
 			public const int action_menu_divider = 2131296259;
@@ -3122,14 +3134,14 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			// aapt resource value: 0x7f09006b
 			public const int action_mode_close_button = 2131296363;
 			
-			// aapt resource value: 0x7f0900c0
-			public const int action_settings = 2131296448;
+			// aapt resource value: 0x7f0900c3
+			public const int action_settings = 2131296451;
 			
-			// aapt resource value: 0x7f0900b2
-			public const int action_text = 2131296434;
+			// aapt resource value: 0x7f0900b5
+			public const int action_text = 2131296437;
 			
-			// aapt resource value: 0x7f0900bc
-			public const int actions = 2131296444;
+			// aapt resource value: 0x7f0900bf
+			public const int actions = 2131296447;
 			
 			// aapt resource value: 0x7f09006c
 			public const int activity_chooser_view_content = 2131296364;
@@ -3161,20 +3173,20 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			// aapt resource value: 0x7f090044
 			public const int bottom = 2131296324;
 			
+			// aapt resource value: 0x7f09009e
+			public const int browser_actions_header_text = 2131296414;
+			
 			// aapt resource value: 0x7f0900a0
-			public const int browser_actions_header_text = 2131296416;
-			
-			// aapt resource value: 0x7f0900a2
-			public const int browser_actions_menu_item_icon = 2131296418;
-			
-			// aapt resource value: 0x7f0900a3
-			public const int browser_actions_menu_item_text = 2131296419;
+			public const int browser_actions_menu_item_icon = 2131296416;
 			
 			// aapt resource value: 0x7f0900a1
-			public const int browser_actions_menu_items = 2131296417;
+			public const int browser_actions_menu_item_text = 2131296417;
 			
 			// aapt resource value: 0x7f09009f
-			public const int browser_actions_menu_view = 2131296415;
+			public const int browser_actions_menu_items = 2131296415;
+			
+			// aapt resource value: 0x7f09009d
+			public const int browser_actions_menu_view = 2131296413;
 			
 			// aapt resource value: 0x7f090072
 			public const int buttonPanel = 2131296370;
@@ -3191,8 +3203,8 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			// aapt resource value: 0x7f090086
 			public const int checkbox = 2131296390;
 			
-			// aapt resource value: 0x7f0900ba
-			public const int chronometer = 2131296442;
+			// aapt resource value: 0x7f0900bd
+			public const int chronometer = 2131296445;
 			
 			// aapt resource value: 0x7f090061
 			public const int clip_horizontal = 2131296353;
@@ -3203,8 +3215,8 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			// aapt resource value: 0x7f090040
 			public const int collapseActionView = 2131296320;
 			
-			// aapt resource value: 0x7f0900a6
-			public const int container = 2131296422;
+			// aapt resource value: 0x7f0900a5
+			public const int container = 2131296421;
 			
 			// aapt resource value: 0x7f090082
 			public const int content = 2131296386;
@@ -3212,8 +3224,8 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			// aapt resource value: 0x7f090075
 			public const int contentPanel = 2131296373;
 			
-			// aapt resource value: 0x7f0900a7
-			public const int coordinator = 2131296423;
+			// aapt resource value: 0x7f0900a6
+			public const int coordinator = 2131296422;
 			
 			// aapt resource value: 0x7f09007c
 			public const int custom = 2131296380;
@@ -3227,23 +3239,26 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			// aapt resource value: 0x7f09006f
 			public const int default_activity_button = 2131296367;
 			
-			// aapt resource value: 0x7f0900a9
-			public const int design_bottom_sheet = 2131296425;
-			
-			// aapt resource value: 0x7f0900ae
-			public const int design_menu_item_action_area = 2131296430;
+			// aapt resource value: 0x7f0900a8
+			public const int design_bottom_sheet = 2131296424;
 			
 			// aapt resource value: 0x7f0900ad
-			public const int design_menu_item_action_area_stub = 2131296429;
+			public const int design_menu_item_action_area = 2131296429;
 			
 			// aapt resource value: 0x7f0900ac
-			public const int design_menu_item_text = 2131296428;
+			public const int design_menu_item_action_area_stub = 2131296428;
 			
 			// aapt resource value: 0x7f0900ab
-			public const int design_navigation_view = 2131296427;
+			public const int design_menu_item_text = 2131296427;
+			
+			// aapt resource value: 0x7f0900aa
+			public const int design_navigation_view = 2131296426;
 			
 			// aapt resource value: 0x7f090027
 			public const int disableHome = 2131296295;
+			
+			// aapt resource value: 0x7f0900a2
+			public const int display = 2131296418;
 			
 			// aapt resource value: 0x7f09008f
 			public const int edit_query = 2131296399;
@@ -3265,9 +3280,6 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			
 			// aapt resource value: 0x7f090085
 			public const int expanded_menu = 2131296389;
-			
-			// aapt resource value: 0x7f09009e
-			public const int fab = 2131296414;
 			
 			// aapt resource value: 0x7f09005e
 			public const int fill = 2131296350;
@@ -3302,8 +3314,8 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			// aapt resource value: 0x7f090071
 			public const int icon = 2131296369;
 			
-			// aapt resource value: 0x7f0900bd
-			public const int icon_group = 2131296445;
+			// aapt resource value: 0x7f0900c0
+			public const int icon_group = 2131296448;
 			
 			// aapt resource value: 0x7f090041
 			public const int ifRoom = 2131296321;
@@ -3311,8 +3323,8 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			// aapt resource value: 0x7f09006e
 			public const int image = 2131296366;
 			
-			// aapt resource value: 0x7f0900b6
-			public const int info = 2131296438;
+			// aapt resource value: 0x7f0900b9
+			public const int info = 2131296441;
 			
 			// aapt resource value: 0x7f090068
 			public const int italic = 2131296360;
@@ -3323,8 +3335,8 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			// aapt resource value: 0x7f09004e
 			public const int labeled = 2131296334;
 			
-			// aapt resource value: 0x7f0900a5
-			public const int largeLabel = 2131296421;
+			// aapt resource value: 0x7f0900a4
+			public const int largeLabel = 2131296420;
 			
 			// aapt resource value: 0x7f090054
 			public const int left = 2131296340;
@@ -3341,8 +3353,8 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			// aapt resource value: 0x7f090070
 			public const int list_item = 2131296368;
 			
-			// aapt resource value: 0x7f0900bf
-			public const int masked = 2131296447;
+			// aapt resource value: 0x7f0900c2
+			public const int masked = 2131296450;
 			
 			// aapt resource value: 0x7f09009c
 			public const int message = 2131296412;
@@ -3359,11 +3371,23 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			// aapt resource value: 0x7f090015
 			public const int mtrl_internal_children_alpha_tag = 2131296277;
 			
+			// aapt resource value: 0x7f0900af
+			public const int multipleChoice1 = 2131296431;
+			
+			// aapt resource value: 0x7f0900b0
+			public const int multipleChoice2 = 2131296432;
+			
+			// aapt resource value: 0x7f0900b1
+			public const int multipleChoice3 = 2131296433;
+			
+			// aapt resource value: 0x7f0900b2
+			public const int multipleChoice4 = 2131296434;
+			
 			// aapt resource value: 0x7f09002f
 			public const int multiply = 2131296303;
 			
-			// aapt resource value: 0x7f0900aa
-			public const int navigation_header_container = 2131296426;
+			// aapt resource value: 0x7f0900a9
+			public const int navigation_header_container = 2131296425;
 			
 			// aapt resource value: 0x7f090042
 			public const int never = 2131296322;
@@ -3374,14 +3398,14 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			// aapt resource value: 0x7f090025
 			public const int normal = 2131296293;
 			
-			// aapt resource value: 0x7f0900b8
-			public const int notification_background = 2131296440;
+			// aapt resource value: 0x7f0900bb
+			public const int notification_background = 2131296443;
 			
-			// aapt resource value: 0x7f0900b4
-			public const int notification_main_column = 2131296436;
+			// aapt resource value: 0x7f0900b7
+			public const int notification_main_column = 2131296439;
 			
-			// aapt resource value: 0x7f0900b3
-			public const int notification_main_column_container = 2131296435;
+			// aapt resource value: 0x7f0900b6
+			public const int notification_main_column_container = 2131296438;
 			
 			// aapt resource value: 0x7f090060
 			public const int outline = 2131296352;
@@ -3410,11 +3434,11 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			// aapt resource value: 0x7f090055
 			public const int right = 2131296341;
 			
-			// aapt resource value: 0x7f0900b7
-			public const int right_icon = 2131296439;
+			// aapt resource value: 0x7f0900ba
+			public const int right_icon = 2131296442;
 			
-			// aapt resource value: 0x7f0900b5
-			public const int right_side = 2131296437;
+			// aapt resource value: 0x7f0900b8
+			public const int right_side = 2131296440;
 			
 			// aapt resource value: 0x7f09000c
 			public const int save_image_matrix = 2131296268;
@@ -3491,8 +3515,8 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			// aapt resource value: 0x7f09002c
 			public const int showTitle = 2131296300;
 			
-			// aapt resource value: 0x7f0900a4
-			public const int smallLabel = 2131296420;
+			// aapt resource value: 0x7f0900a3
+			public const int smallLabel = 2131296419;
 			
 			// aapt resource value: 0x7f090016
 			public const int snackbar_action = 2131296278;
@@ -3560,8 +3584,8 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			// aapt resource value: 0x7f09005a
 			public const int textStart = 2131296346;
 			
-			// aapt resource value: 0x7f0900af
-			public const int text_input_password_toggle = 2131296431;
+			// aapt resource value: 0x7f0900ae
+			public const int text_input_password_toggle = 2131296430;
 			
 			// aapt resource value: 0x7f090018
 			public const int textinput_counter = 2131296280;
@@ -3572,8 +3596,8 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			// aapt resource value: 0x7f09001a
 			public const int textinput_helper_text = 2131296282;
 			
-			// aapt resource value: 0x7f0900b9
-			public const int time = 2131296441;
+			// aapt resource value: 0x7f0900bc
+			public const int time = 2131296444;
 			
 			// aapt resource value: 0x7f090023
 			public const int title = 2131296291;
@@ -3584,17 +3608,14 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			// aapt resource value: 0x7f09007e
 			public const int title_template = 2131296382;
 			
-			// aapt resource value: 0x7f09009d
-			public const int toolbar = 2131296413;
-			
 			// aapt resource value: 0x7f090045
 			public const int top = 2131296325;
 			
 			// aapt resource value: 0x7f09007d
 			public const int topPanel = 2131296381;
 			
-			// aapt resource value: 0x7f0900a8
-			public const int touch_outside = 2131296424;
+			// aapt resource value: 0x7f0900a7
+			public const int touch_outside = 2131296423;
 			
 			// aapt resource value: 0x7f09000f
 			public const int transition_current_scene = 2131296271;
@@ -3626,8 +3647,8 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			// aapt resource value: 0x7f09001b
 			public const int view_offset_helper = 2131296283;
 			
-			// aapt resource value: 0x7f0900be
-			public const int visible = 2131296446;
+			// aapt resource value: 0x7f0900c1
+			public const int visible = 2131296449;
 			
 			// aapt resource value: 0x7f090043
 			public const int withText = 2131296323;
@@ -3876,34 +3897,37 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			public const int mtrl_layout_snackbar_include = 2130968623;
 			
 			// aapt resource value: 0x7f040030
-			public const int notification_action = 2130968624;
+			public const int multiple_choice_main = 2130968624;
 			
 			// aapt resource value: 0x7f040031
-			public const int notification_action_tombstone = 2130968625;
+			public const int notification_action = 2130968625;
 			
 			// aapt resource value: 0x7f040032
-			public const int notification_template_custom_big = 2130968626;
+			public const int notification_action_tombstone = 2130968626;
 			
 			// aapt resource value: 0x7f040033
-			public const int notification_template_icon_group = 2130968627;
+			public const int notification_template_custom_big = 2130968627;
 			
 			// aapt resource value: 0x7f040034
-			public const int notification_template_part_chronometer = 2130968628;
+			public const int notification_template_icon_group = 2130968628;
 			
 			// aapt resource value: 0x7f040035
-			public const int notification_template_part_time = 2130968629;
+			public const int notification_template_part_chronometer = 2130968629;
 			
 			// aapt resource value: 0x7f040036
-			public const int select_dialog_item_material = 2130968630;
+			public const int notification_template_part_time = 2130968630;
 			
 			// aapt resource value: 0x7f040037
-			public const int select_dialog_multichoice_material = 2130968631;
+			public const int select_dialog_item_material = 2130968631;
 			
 			// aapt resource value: 0x7f040038
-			public const int select_dialog_singlechoice_material = 2130968632;
+			public const int select_dialog_multichoice_material = 2130968632;
 			
 			// aapt resource value: 0x7f040039
-			public const int support_simple_spinner_dropdown_item = 2130968633;
+			public const int select_dialog_singlechoice_material = 2130968633;
+			
+			// aapt resource value: 0x7f04003a
+			public const int support_simple_spinner_dropdown_item = 2130968634;
 			
 			static Layout()
 			{
