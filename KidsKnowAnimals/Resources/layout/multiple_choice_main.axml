@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:showIn="@layout/activity_main"
+    android:minWidth="25px"
+    android:minHeight="25px">
+    <ImageButton
+        android:src="@drawable/elephant"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/multipleChoice1"
+        android:layout_margin="20dp"
+        android:tooltipText="Elephant" />
+    <ImageButton
+        android:src="@drawable/giraffe"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/multipleChoice2"
+        android:layout_toRightOf="@+id/multipleChoice1"
+        android:layout_margin="20dp"
+        android:tooltipText="Giraffe" />
+    <ImageButton
+        android:src="@drawable/gorilla"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/multipleChoice3"
+        android:layout_below="@+id/multipleChoice1"
+        android:layout_margin="20dp"
+        android:tooltipText="Gorilla" />
+    <ImageButton
+        android:src="@drawable/turtle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/multipleChoice4"
+        android:layout_toRightOf="@+id/multipleChoice1"
+        android:layout_below="@+id/multipleChoice1"
+        android:layout_margin="20dp"
+        android:tooltipText="Turtle" />
+
+
+</RelativeLayout>
