@@ -1,0 +1,26 @@
+{
+  "version": "1.0.0",
+  "name": "projectname",
+  "private": true,
+  "scripts": {
+    "build": "webpack --env.prod"
+  },
+  "devDependencies": {
+    "@types/node": "^10.12.21",
+    "@types/webpack-env": "^1.13.7",
+    "aspnet-prerendering": "^3.0.1",
+    "aspnet-webpack": "^3.0.0",
+    "css-loader": "^2.1.0",
+    "extendify": "^1.0.0",
+    "mini-css-extract-plugin": "^0.5.0",
+    "node-sass": "^4.11.0",
+    "sass-loader": "^7.1.0",
+    "style-loader": "^0.23.1",
+    "ts-loader": "^4.5.0",
+    "typescript": "^3.3.1",
+    "webpack": "^4.29.1",
+    "webpack-cli": "^3.2.3",
+    "webpack-dev-middleware": "^3.5.1",
+    "webpack-hot-middleware": "^2.24.3"
+  }
+}

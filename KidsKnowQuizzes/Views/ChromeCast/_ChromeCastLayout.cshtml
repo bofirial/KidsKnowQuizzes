@@ -1,0 +1,23 @@
+﻿@{
+    Layout = "_Layout";
+
+    ViewBag.Title = "Kids Know Quizzes";
+    ViewBag.Description = "A Chrome Cast application for presenting " +
+                          "a multiple choice quiz targetted at toddlers and young children.";
+}
+
+
+
+@section Styles
+{ 
+    <environment exclude="Development">
+        <link href="dist/chromeCast.css" type="text/css" asp-append-version="true"/>
+    </environment>
+}
+
+@section Scripts
+{
+    <script src="dist/chromeCast.js" type="text/javascript" asp-append-version="true"></script>
+}
+
+@RenderBody()
