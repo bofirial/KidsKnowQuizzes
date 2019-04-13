@@ -1,8 +1,10 @@
 ﻿using System;
 using Android.App;
+using Android.Gms.Cast.Framework;
 using Android.OS;
 using Android.Runtime;
 using Android.Support.Design.Widget;
+using Android.Support.V4.App;
 using Android.Support.V7.App;
 using Android.Views;
 using Android.Widget;
@@ -10,7 +12,7 @@ using Android.Widget;
 namespace KidsKnowQuizzes.KidsKnowAnimals
 {
     [Activity(Label = "@string/app_name", Theme = "@style/AppTheme.NoActionBar", MainLauncher = true)]
-    public class MainActivity : AppCompatActivity
+    public class MainActivity : FragmentActivity
     {
 
         protected override void OnCreate(Bundle savedInstanceState)
@@ -18,13 +20,13 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
             base.OnCreate(savedInstanceState);
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
             SetContentView(Resource.Layout.activity_main);
-
+            
             //Android.Support.V7.Widget.Toolbar toolbar = FindViewById<Android.Support.V7.Widget.Toolbar>(Resource.Id.toolbar);
             //SetSupportActionBar(toolbar);
 
             //FloatingActionButton fab = FindViewById<FloatingActionButton>(Resource.Id.fab);
             //fab.Click += FabOnClick;
-
+            
             var imageButton1 = FindViewById<ImageButton>(Resource.Id.multipleChoice1);
             imageButton1.Click += MultipleChoiceOnClick;
 
@@ -36,6 +38,13 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 
             var imageButton4 = FindViewById<ImageButton>(Resource.Id.multipleChoice4);
             imageButton4.Click += MultipleChoiceOnClick;
+            
+            var mediaRouteButton =
+                FindViewById<Android.Support.V7.App.MediaRouteButton>(Resource.Id.media_route_button);
+
+            CastButtonFactory.SetUpMediaRouteButton(Application.Context, mediaRouteButton);
+
+            var castContext = CastContext.GetSharedInstance(this);
         }
 
         public override bool OnCreateOptionsMenu(IMenu menu)
@@ -70,7 +79,7 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 
             Snackbar.Make(view, $"You selected the {animalName}!", Snackbar.LengthLong)
                 .SetAction("Action", (Android.Views.View.IOnClickListener)null).Show();
-            
+
             var display = FindViewById<TextView>(Resource.Id.display);
             display.Text = animalName;
         }
