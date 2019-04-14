@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "name": "projectname",
+  "name": "kids-know-quizzes",
   "private": true,
   "scripts": {
     "build": "webpack --env.prod"
