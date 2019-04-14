@@ -27,6 +27,7 @@
     "webpack-hot-middleware": "^2.24.3"
   },
   "dependencies": {
+    "@aspnet/signalr": "^1.1.4",
     "bootstrap": "^4.3.1"
   }
 }
