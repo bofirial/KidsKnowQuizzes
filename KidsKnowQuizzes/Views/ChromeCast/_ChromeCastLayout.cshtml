@@ -9,15 +9,16 @@
 
 
 @section Styles
-{ 
+{
     <environment exclude="Development">
-        <link href="dist/chromeCast.css" type="text/css" asp-append-version="true"/>
+        <link href="dist/chromeCast.css" type="text/css" asp-append-version="true" />
     </environment>
 }
 
 @section Scripts
 {
     <script src="dist/chromeCast.js" type="text/javascript" asp-append-version="true"></script>
+    <script type="text/javascript" src="https://www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1"></script>
 }
 
 @RenderBody()

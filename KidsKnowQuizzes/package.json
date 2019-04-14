@@ -6,6 +6,8 @@
     "build": "webpack --env.prod"
   },
   "devDependencies": {
+    "@types/chrome": "^0.0.82",
+    "@types/chromecast-caf-sender": "^1.0.1",
     "@types/node": "^11.13.4",
     "@types/webpack-env": "^1.13.9",
     "aspnet-prerendering": "^3.0.1",
@@ -23,5 +25,8 @@
     "webpack-cli": "^3.3.0",
     "webpack-dev-middleware": "^3.6.2",
     "webpack-hot-middleware": "^2.24.3"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1"
   }
 }
