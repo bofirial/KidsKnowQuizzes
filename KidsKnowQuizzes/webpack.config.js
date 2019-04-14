@@ -10,8 +10,8 @@ module.exports = env => {
     return merge(
         {
             entry: {
-                site: [
-                    './wwwroot/ts/site.bootstrap.ts'
+                home: [
+                    './wwwroot/ts/home.bootstrap.ts'
                 ],
                 chromeCast: [
                     './wwwroot/ts/chromeCast.bootstrap.ts'

@@ -6,9 +6,10 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace KidsKnowQuizzes.Controllers
 {
-    [Route("/[controller]")]
-    public class ChromeCastController : Controller
+    [Route("/")]
+    public class HomeController : Controller
     {
+        // GET: /<controller>/
         public IActionResult Index()
         {
             return View();

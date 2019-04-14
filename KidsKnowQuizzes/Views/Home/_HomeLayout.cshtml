@@ -1,0 +1,20 @@
+﻿@{
+    Layout = "_Layout";
+
+    ViewBag.Title = "Kids Know Quizzes";
+    ViewBag.Description = "The Android application(s) for kids to quiz themselves on a variety of topics they love!";
+}
+
+@section Styles
+{
+    <environment exclude="Development">
+        <link href="dist/home.css" type="text/css" asp-append-version="true" />
+    </environment>
+}
+
+@section Scripts
+{
+    <script src="dist/home.js" type="text/javascript" asp-append-version="true"></script>
+}
+
+@RenderBody()
