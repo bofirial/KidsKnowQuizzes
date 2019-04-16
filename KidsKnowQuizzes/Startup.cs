@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using KidsKnowQuizzes.Hubs;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -36,6 +37,10 @@ namespace KidsKnowQuizzes
             {
                 services.AddNodeServices();
             }
+
+            services.AddSignalR();
+
+            services.AddHostedService<TempTimerHostedService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -61,6 +66,7 @@ namespace KidsKnowQuizzes
             app.UseRouting(routes =>
             {
                 routes.MapControllers();
+                routes.MapHub<QuizHub>("/hubs/quiz");
             });
 
             app.UseStaticFiles();

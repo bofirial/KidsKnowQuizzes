@@ -4562,8 +4562,8 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			// aapt resource value: 0x7f0c0053
 			public const int SYM = 2131492947;
 			
-			// aapt resource value: 0x7f0c011e
-			public const int action0 = 2131493150;
+			// aapt resource value: 0x7f0c0120
+			public const int action0 = 2131493152;
 			
 			// aapt resource value: 0x7f0c00a1
 			public const int action_bar = 2131493025;
@@ -4586,17 +4586,17 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			// aapt resource value: 0x7f0c007d
 			public const int action_bar_title = 2131492989;
 			
-			// aapt resource value: 0x7f0c011b
-			public const int action_container = 2131493147;
+			// aapt resource value: 0x7f0c011d
+			public const int action_container = 2131493149;
 			
 			// aapt resource value: 0x7f0c00a2
 			public const int action_context_bar = 2131493026;
 			
-			// aapt resource value: 0x7f0c0122
-			public const int action_divider = 2131493154;
+			// aapt resource value: 0x7f0c0124
+			public const int action_divider = 2131493156;
 			
-			// aapt resource value: 0x7f0c011c
-			public const int action_image = 2131493148;
+			// aapt resource value: 0x7f0c011e
+			public const int action_image = 2131493150;
 			
 			// aapt resource value: 0x7f0c0010
 			public const int action_menu_divider = 2131492880;
@@ -4613,35 +4613,35 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			// aapt resource value: 0x7f0c007f
 			public const int action_mode_close_button = 2131492991;
 			
-			// aapt resource value: 0x7f0c0130
-			public const int action_settings = 2131493168;
+			// aapt resource value: 0x7f0c0132
+			public const int action_settings = 2131493170;
 			
-			// aapt resource value: 0x7f0c011d
-			public const int action_text = 2131493149;
+			// aapt resource value: 0x7f0c011f
+			public const int action_text = 2131493151;
 			
-			// aapt resource value: 0x7f0c012b
-			public const int actions = 2131493163;
+			// aapt resource value: 0x7f0c012d
+			public const int actions = 2131493165;
 			
 			// aapt resource value: 0x7f0c0080
 			public const int activity_chooser_view_content = 2131492992;
 			
-			// aapt resource value: 0x7f0c00bc
-			public const int ad_container = 2131493052;
-			
-			// aapt resource value: 0x7f0c00bf
-			public const int ad_image_view = 2131493055;
-			
 			// aapt resource value: 0x7f0c00be
-			public const int ad_in_progress_label = 2131493054;
-			
-			// aapt resource value: 0x7f0c00bd
-			public const int ad_label = 2131493053;
+			public const int ad_container = 2131493054;
 			
 			// aapt resource value: 0x7f0c00c1
-			public const int ad_skip_button = 2131493057;
+			public const int ad_image_view = 2131493057;
 			
 			// aapt resource value: 0x7f0c00c0
-			public const int ad_skip_text = 2131493056;
+			public const int ad_in_progress_label = 2131493056;
+			
+			// aapt resource value: 0x7f0c00bf
+			public const int ad_label = 2131493055;
+			
+			// aapt resource value: 0x7f0c00c3
+			public const int ad_skip_button = 2131493059;
+			
+			// aapt resource value: 0x7f0c00c2
+			public const int ad_skip_text = 2131493058;
 			
 			// aapt resource value: 0x7f0c0043
 			public const int add = 2131492931;
@@ -4664,17 +4664,20 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			// aapt resource value: 0x7f0c0079
 			public const int async = 2131492985;
 			
-			// aapt resource value: 0x7f0c00d9
-			public const int audio_list_view = 2131493081;
+			// aapt resource value: 0x7f0c00db
+			public const int audio_list_view = 2131493083;
 			
 			// aapt resource value: 0x7f0c0037
 			public const int auto = 2131492919;
 			
-			// aapt resource value: 0x7f0c00b7
-			public const int background_image_view = 2131493047;
+			// aapt resource value: 0x7f0c00b2
+			public const int bConnect = 2131493042;
 			
-			// aapt resource value: 0x7f0c00bb
-			public const int background_place_holder_image_view = 2131493051;
+			// aapt resource value: 0x7f0c00b9
+			public const int background_image_view = 2131493049;
+			
+			// aapt resource value: 0x7f0c00bd
+			public const int background_place_holder_image_view = 2131493053;
 			
 			// aapt resource value: 0x7f0c004b
 			public const int beginning = 2131492939;
@@ -4682,50 +4685,50 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			// aapt resource value: 0x7f0c007a
 			public const int blocking = 2131492986;
 			
-			// aapt resource value: 0x7f0c00b8
-			public const int blurred_background_image_view = 2131493048;
+			// aapt resource value: 0x7f0c00ba
+			public const int blurred_background_image_view = 2131493050;
 			
 			// aapt resource value: 0x7f0c0059
 			public const int bottom = 2131492953;
 			
-			// aapt resource value: 0x7f0c00b2
-			public const int browser_actions_header_text = 2131493042;
-			
 			// aapt resource value: 0x7f0c00b4
-			public const int browser_actions_menu_item_icon = 2131493044;
+			public const int browser_actions_header_text = 2131493044;
+			
+			// aapt resource value: 0x7f0c00b6
+			public const int browser_actions_menu_item_icon = 2131493046;
+			
+			// aapt resource value: 0x7f0c00b7
+			public const int browser_actions_menu_item_text = 2131493047;
 			
 			// aapt resource value: 0x7f0c00b5
-			public const int browser_actions_menu_item_text = 2131493045;
+			public const int browser_actions_menu_items = 2131493045;
 			
 			// aapt resource value: 0x7f0c00b3
-			public const int browser_actions_menu_items = 2131493043;
+			public const int browser_actions_menu_view = 2131493043;
 			
-			// aapt resource value: 0x7f0c00b1
-			public const int browser_actions_menu_view = 2131493041;
-			
-			// aapt resource value: 0x7f0c00d0
-			public const int button = 2131493072;
+			// aapt resource value: 0x7f0c00d2
+			public const int button = 2131493074;
 			
 			// aapt resource value: 0x7f0c0086
 			public const int buttonPanel = 2131492998;
 			
-			// aapt resource value: 0x7f0c00ca
-			public const int button_0 = 2131493066;
-			
-			// aapt resource value: 0x7f0c00cb
-			public const int button_1 = 2131493067;
+			// aapt resource value: 0x7f0c00cc
+			public const int button_0 = 2131493068;
 			
 			// aapt resource value: 0x7f0c00cd
-			public const int button_2 = 2131493069;
+			public const int button_1 = 2131493069;
+			
+			// aapt resource value: 0x7f0c00cf
+			public const int button_2 = 2131493071;
+			
+			// aapt resource value: 0x7f0c00d0
+			public const int button_3 = 2131493072;
 			
 			// aapt resource value: 0x7f0c00ce
-			public const int button_3 = 2131493070;
+			public const int button_play_pause_toggle = 2131493070;
 			
-			// aapt resource value: 0x7f0c00cc
-			public const int button_play_pause_toggle = 2131493068;
-			
-			// aapt resource value: 0x7f0c011f
-			public const int cancel_action = 2131493151;
+			// aapt resource value: 0x7f0c0121
+			public const int cancel_action = 2131493153;
 			
 			// aapt resource value: 0x7f0c0000
 			public const int cast_button_type_closed_caption = 2131492864;
@@ -4778,8 +4781,8 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			// aapt resource value: 0x7f0c009a
 			public const int checkbox = 2131493018;
 			
-			// aapt resource value: 0x7f0c0127
-			public const int chronometer = 2131493159;
+			// aapt resource value: 0x7f0c0129
+			public const int chronometer = 2131493161;
 			
 			// aapt resource value: 0x7f0c0075
 			public const int clip_horizontal = 2131492981;
@@ -4790,14 +4793,14 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			// aapt resource value: 0x7f0c0055
 			public const int collapseActionView = 2131492949;
 			
-			// aapt resource value: 0x7f0c00de
-			public const int container = 2131493086;
+			// aapt resource value: 0x7f0c00e0
+			public const int container = 2131493088;
 			
-			// aapt resource value: 0x7f0c00d1
-			public const int container_all = 2131493073;
+			// aapt resource value: 0x7f0c00d3
+			public const int container_all = 2131493075;
 			
-			// aapt resource value: 0x7f0c00d2
-			public const int container_current = 2131493074;
+			// aapt resource value: 0x7f0c00d4
+			public const int container_current = 2131493076;
 			
 			// aapt resource value: 0x7f0c0096
 			public const int content = 2131493014;
@@ -4805,11 +4808,11 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			// aapt resource value: 0x7f0c0089
 			public const int contentPanel = 2131493001;
 			
-			// aapt resource value: 0x7f0c00ba
-			public const int controllers = 2131493050;
+			// aapt resource value: 0x7f0c00bc
+			public const int controllers = 2131493052;
 			
-			// aapt resource value: 0x7f0c00df
-			public const int coordinator = 2131493087;
+			// aapt resource value: 0x7f0c00e1
+			public const int coordinator = 2131493089;
 			
 			// aapt resource value: 0x7f0c0090
 			public const int custom = 2131493008;
@@ -4826,26 +4829,26 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			// aapt resource value: 0x7f0c0083
 			public const int default_activity_button = 2131492995;
 			
-			// aapt resource value: 0x7f0c00e1
-			public const int design_bottom_sheet = 2131493089;
+			// aapt resource value: 0x7f0c00e3
+			public const int design_bottom_sheet = 2131493091;
+			
+			// aapt resource value: 0x7f0c00e8
+			public const int design_menu_item_action_area = 2131493096;
+			
+			// aapt resource value: 0x7f0c00e7
+			public const int design_menu_item_action_area_stub = 2131493095;
 			
 			// aapt resource value: 0x7f0c00e6
-			public const int design_menu_item_action_area = 2131493094;
+			public const int design_menu_item_text = 2131493094;
 			
 			// aapt resource value: 0x7f0c00e5
-			public const int design_menu_item_action_area_stub = 2131493093;
-			
-			// aapt resource value: 0x7f0c00e4
-			public const int design_menu_item_text = 2131493092;
-			
-			// aapt resource value: 0x7f0c00e3
-			public const int design_navigation_view = 2131493091;
+			public const int design_navigation_view = 2131493093;
 			
 			// aapt resource value: 0x7f0c003d
 			public const int disableHome = 2131492925;
 			
-			// aapt resource value: 0x7f0c00da
-			public const int display = 2131493082;
+			// aapt resource value: 0x7f0c00dc
+			public const int display = 2131493084;
 			
 			// aapt resource value: 0x7f0c00a3
 			public const int edit_query = 2131493027;
@@ -4853,11 +4856,11 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			// aapt resource value: 0x7f0c004c
 			public const int end = 2131492940;
 			
-			// aapt resource value: 0x7f0c012d
-			public const int end_padder = 2131493165;
+			// aapt resource value: 0x7f0c012f
+			public const int end_padder = 2131493167;
 			
-			// aapt resource value: 0x7f0c00c6
-			public const int end_text = 2131493062;
+			// aapt resource value: 0x7f0c00c8
+			public const int end_text = 2131493064;
 			
 			// aapt resource value: 0x7f0c005b
 			public const int enterAlways = 2131492955;
@@ -4871,8 +4874,8 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			// aapt resource value: 0x7f0c0081
 			public const int expand_activities_button = 2131492993;
 			
-			// aapt resource value: 0x7f0c00b6
-			public const int expanded_controller_layout = 2131493046;
+			// aapt resource value: 0x7f0c00b8
+			public const int expanded_controller_layout = 2131493048;
 			
 			// aapt resource value: 0x7f0c0099
 			public const int expanded_menu = 2131493017;
@@ -4910,14 +4913,14 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			// aapt resource value: 0x7f0c0085
 			public const int icon = 2131492997;
 			
-			// aapt resource value: 0x7f0c012c
-			public const int icon_group = 2131493164;
+			// aapt resource value: 0x7f0c012e
+			public const int icon_group = 2131493166;
 			
 			// aapt resource value: 0x7f0c0034
 			public const int icon_only = 2131492916;
 			
-			// aapt resource value: 0x7f0c00d3
-			public const int icon_view = 2131493075;
+			// aapt resource value: 0x7f0c00d5
+			public const int icon_view = 2131493077;
 			
 			// aapt resource value: 0x7f0c0056
 			public const int ifRoom = 2131492950;
@@ -4925,8 +4928,8 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			// aapt resource value: 0x7f0c0082
 			public const int image = 2131492994;
 			
-			// aapt resource value: 0x7f0c0128
-			public const int info = 2131493160;
+			// aapt resource value: 0x7f0c012a
+			public const int info = 2131493162;
 			
 			// aapt resource value: 0x7f0c007c
 			public const int italic = 2131492988;
@@ -4937,8 +4940,8 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			// aapt resource value: 0x7f0c0062
 			public const int labeled = 2131492962;
 			
-			// aapt resource value: 0x7f0c00dd
-			public const int largeLabel = 2131493085;
+			// aapt resource value: 0x7f0c00df
+			public const int largeLabel = 2131493087;
 			
 			// aapt resource value: 0x7f0c0068
 			public const int left = 2131492968;
@@ -4958,26 +4961,29 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			// aapt resource value: 0x7f0c0084
 			public const int list_item = 2131492996;
 			
-			// aapt resource value: 0x7f0c00c7
-			public const int live_stream_indicator = 2131493063;
-			
 			// aapt resource value: 0x7f0c00c9
-			public const int live_stream_seek_bar = 2131493065;
+			public const int live_stream_indicator = 2131493065;
 			
-			// aapt resource value: 0x7f0c00c2
-			public const int loading_indicator = 2131493058;
+			// aapt resource value: 0x7f0c00cb
+			public const int live_stream_seek_bar = 2131493067;
 			
-			// aapt resource value: 0x7f0c012f
-			public const int masked = 2131493167;
+			// aapt resource value: 0x7f0c00c4
+			public const int loading_indicator = 2131493060;
 			
-			// aapt resource value: 0x7f0c0121
-			public const int media_actions = 2131493153;
+			// aapt resource value: 0x7f0c0131
+			public const int masked = 2131493169;
 			
-			// aapt resource value: 0x7f0c00db
-			public const int media_route_button = 2131493083;
+			// aapt resource value: 0x7f0c0123
+			public const int media_actions = 2131493155;
+			
+			// aapt resource value: 0x7f0c00dd
+			public const int media_route_button = 2131493085;
 			
 			// aapt resource value: 0x7f0c00b0
 			public const int message = 2131493040;
+			
+			// aapt resource value: 0x7f0c00b1
+			public const int messages = 2131493041;
 			
 			// aapt resource value: 0x7f0c004d
 			public const int middle = 2131492941;
@@ -4985,143 +4991,143 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			// aapt resource value: 0x7f0c006d
 			public const int mini = 2131492973;
 			
-			// aapt resource value: 0x7f0c0104
-			public const int mr_art = 2131493124;
-			
-			// aapt resource value: 0x7f0c00f5
-			public const int mr_cast_checkbox = 2131493109;
-			
-			// aapt resource value: 0x7f0c00ee
-			public const int mr_cast_close_button = 2131493102;
-			
-			// aapt resource value: 0x7f0c00e9
-			public const int mr_cast_group_icon = 2131493097;
-			
-			// aapt resource value: 0x7f0c00ea
-			public const int mr_cast_group_name = 2131493098;
-			
-			// aapt resource value: 0x7f0c00e8
-			public const int mr_cast_list = 2131493096;
-			
-			// aapt resource value: 0x7f0c00ed
-			public const int mr_cast_meta = 2131493101;
-			
-			// aapt resource value: 0x7f0c00ef
-			public const int mr_cast_meta_art = 2131493103;
-			
-			// aapt resource value: 0x7f0c00f1
-			public const int mr_cast_meta_subtitle = 2131493105;
-			
-			// aapt resource value: 0x7f0c00f0
-			public const int mr_cast_meta_title = 2131493104;
-			
-			// aapt resource value: 0x7f0c00f3
-			public const int mr_cast_route_icon = 2131493107;
-			
-			// aapt resource value: 0x7f0c00f4
-			public const int mr_cast_route_name = 2131493108;
-			
-			// aapt resource value: 0x7f0c00f2
-			public const int mr_cast_stop_button = 2131493106;
-			
-			// aapt resource value: 0x7f0c00f6
-			public const int mr_cast_volume_layout = 2131493110;
+			// aapt resource value: 0x7f0c0106
+			public const int mr_art = 2131493126;
 			
 			// aapt resource value: 0x7f0c00f7
-			public const int mr_cast_volume_slider = 2131493111;
+			public const int mr_cast_checkbox = 2131493111;
 			
-			// aapt resource value: 0x7f0c00f9
-			public const int mr_chooser_list = 2131493113;
-			
-			// aapt resource value: 0x7f0c00fc
-			public const int mr_chooser_route_desc = 2131493116;
-			
-			// aapt resource value: 0x7f0c00fa
-			public const int mr_chooser_route_icon = 2131493114;
-			
-			// aapt resource value: 0x7f0c00fb
-			public const int mr_chooser_route_name = 2131493115;
-			
-			// aapt resource value: 0x7f0c00f8
-			public const int mr_chooser_title = 2131493112;
-			
-			// aapt resource value: 0x7f0c0101
-			public const int mr_close = 2131493121;
-			
-			// aapt resource value: 0x7f0c0107
-			public const int mr_control_divider = 2131493127;
-			
-			// aapt resource value: 0x7f0c0112
-			public const int mr_control_playback_ctrl = 2131493138;
-			
-			// aapt resource value: 0x7f0c0115
-			public const int mr_control_subtitle = 2131493141;
-			
-			// aapt resource value: 0x7f0c0114
-			public const int mr_control_title = 2131493140;
-			
-			// aapt resource value: 0x7f0c0113
-			public const int mr_control_title_container = 2131493139;
-			
-			// aapt resource value: 0x7f0c0102
-			public const int mr_custom_control = 2131493122;
-			
-			// aapt resource value: 0x7f0c0103
-			public const int mr_default_control = 2131493123;
-			
-			// aapt resource value: 0x7f0c00fe
-			public const int mr_dialog_area = 2131493118;
-			
-			// aapt resource value: 0x7f0c010d
-			public const int mr_dialog_header_name = 2131493133;
-			
-			// aapt resource value: 0x7f0c00fd
-			public const int mr_expandable_area = 2131493117;
-			
-			// aapt resource value: 0x7f0c0116
-			public const int mr_group_expand_collapse = 2131493142;
+			// aapt resource value: 0x7f0c00f0
+			public const int mr_cast_close_button = 2131493104;
 			
 			// aapt resource value: 0x7f0c00eb
-			public const int mr_group_volume_route_name = 2131493099;
+			public const int mr_cast_group_icon = 2131493099;
 			
 			// aapt resource value: 0x7f0c00ec
-			public const int mr_group_volume_slider = 2131493100;
+			public const int mr_cast_group_name = 2131493100;
 			
-			// aapt resource value: 0x7f0c0105
-			public const int mr_media_main_control = 2131493125;
+			// aapt resource value: 0x7f0c00ea
+			public const int mr_cast_list = 2131493098;
 			
-			// aapt resource value: 0x7f0c0100
-			public const int mr_name = 2131493120;
+			// aapt resource value: 0x7f0c00ef
+			public const int mr_cast_meta = 2131493103;
 			
-			// aapt resource value: 0x7f0c010e
-			public const int mr_picker_close_button = 2131493134;
+			// aapt resource value: 0x7f0c00f1
+			public const int mr_cast_meta_art = 2131493105;
 			
-			// aapt resource value: 0x7f0c010f
-			public const int mr_picker_list = 2131493135;
+			// aapt resource value: 0x7f0c00f3
+			public const int mr_cast_meta_subtitle = 2131493107;
 			
-			// aapt resource value: 0x7f0c0110
-			public const int mr_picker_route_icon = 2131493136;
+			// aapt resource value: 0x7f0c00f2
+			public const int mr_cast_meta_title = 2131493106;
 			
-			// aapt resource value: 0x7f0c0111
-			public const int mr_picker_route_name = 2131493137;
+			// aapt resource value: 0x7f0c00f5
+			public const int mr_cast_route_icon = 2131493109;
 			
-			// aapt resource value: 0x7f0c0106
-			public const int mr_playback_control = 2131493126;
+			// aapt resource value: 0x7f0c00f6
+			public const int mr_cast_route_name = 2131493110;
 			
-			// aapt resource value: 0x7f0c00ff
-			public const int mr_title_bar = 2131493119;
+			// aapt resource value: 0x7f0c00f4
+			public const int mr_cast_stop_button = 2131493108;
 			
-			// aapt resource value: 0x7f0c0108
-			public const int mr_volume_control = 2131493128;
+			// aapt resource value: 0x7f0c00f8
+			public const int mr_cast_volume_layout = 2131493112;
+			
+			// aapt resource value: 0x7f0c00f9
+			public const int mr_cast_volume_slider = 2131493113;
+			
+			// aapt resource value: 0x7f0c00fb
+			public const int mr_chooser_list = 2131493115;
+			
+			// aapt resource value: 0x7f0c00fe
+			public const int mr_chooser_route_desc = 2131493118;
+			
+			// aapt resource value: 0x7f0c00fc
+			public const int mr_chooser_route_icon = 2131493116;
+			
+			// aapt resource value: 0x7f0c00fd
+			public const int mr_chooser_route_name = 2131493117;
+			
+			// aapt resource value: 0x7f0c00fa
+			public const int mr_chooser_title = 2131493114;
+			
+			// aapt resource value: 0x7f0c0103
+			public const int mr_close = 2131493123;
 			
 			// aapt resource value: 0x7f0c0109
-			public const int mr_volume_group_list = 2131493129;
+			public const int mr_control_divider = 2131493129;
+			
+			// aapt resource value: 0x7f0c0114
+			public const int mr_control_playback_ctrl = 2131493140;
+			
+			// aapt resource value: 0x7f0c0117
+			public const int mr_control_subtitle = 2131493143;
+			
+			// aapt resource value: 0x7f0c0116
+			public const int mr_control_title = 2131493142;
+			
+			// aapt resource value: 0x7f0c0115
+			public const int mr_control_title_container = 2131493141;
+			
+			// aapt resource value: 0x7f0c0104
+			public const int mr_custom_control = 2131493124;
+			
+			// aapt resource value: 0x7f0c0105
+			public const int mr_default_control = 2131493125;
+			
+			// aapt resource value: 0x7f0c0100
+			public const int mr_dialog_area = 2131493120;
+			
+			// aapt resource value: 0x7f0c010f
+			public const int mr_dialog_header_name = 2131493135;
+			
+			// aapt resource value: 0x7f0c00ff
+			public const int mr_expandable_area = 2131493119;
+			
+			// aapt resource value: 0x7f0c0118
+			public const int mr_group_expand_collapse = 2131493144;
+			
+			// aapt resource value: 0x7f0c00ed
+			public const int mr_group_volume_route_name = 2131493101;
+			
+			// aapt resource value: 0x7f0c00ee
+			public const int mr_group_volume_slider = 2131493102;
+			
+			// aapt resource value: 0x7f0c0107
+			public const int mr_media_main_control = 2131493127;
+			
+			// aapt resource value: 0x7f0c0102
+			public const int mr_name = 2131493122;
+			
+			// aapt resource value: 0x7f0c0110
+			public const int mr_picker_close_button = 2131493136;
+			
+			// aapt resource value: 0x7f0c0111
+			public const int mr_picker_list = 2131493137;
+			
+			// aapt resource value: 0x7f0c0112
+			public const int mr_picker_route_icon = 2131493138;
+			
+			// aapt resource value: 0x7f0c0113
+			public const int mr_picker_route_name = 2131493139;
+			
+			// aapt resource value: 0x7f0c0108
+			public const int mr_playback_control = 2131493128;
+			
+			// aapt resource value: 0x7f0c0101
+			public const int mr_title_bar = 2131493121;
+			
+			// aapt resource value: 0x7f0c010a
+			public const int mr_volume_control = 2131493130;
 			
 			// aapt resource value: 0x7f0c010b
-			public const int mr_volume_item_icon = 2131493131;
+			public const int mr_volume_group_list = 2131493131;
 			
-			// aapt resource value: 0x7f0c010c
-			public const int mr_volume_slider = 2131493132;
+			// aapt resource value: 0x7f0c010d
+			public const int mr_volume_item_icon = 2131493133;
+			
+			// aapt resource value: 0x7f0c010e
+			public const int mr_volume_slider = 2131493134;
 			
 			// aapt resource value: 0x7f0c0021
 			public const int mtrl_child_content_container = 2131492897;
@@ -5129,23 +5135,23 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			// aapt resource value: 0x7f0c0022
 			public const int mtrl_internal_children_alpha_tag = 2131492898;
 			
-			// aapt resource value: 0x7f0c0117
-			public const int multipleChoice1 = 2131493143;
-			
-			// aapt resource value: 0x7f0c0118
-			public const int multipleChoice2 = 2131493144;
-			
 			// aapt resource value: 0x7f0c0119
-			public const int multipleChoice3 = 2131493145;
+			public const int multipleChoice1 = 2131493145;
 			
 			// aapt resource value: 0x7f0c011a
-			public const int multipleChoice4 = 2131493146;
+			public const int multipleChoice2 = 2131493146;
+			
+			// aapt resource value: 0x7f0c011b
+			public const int multipleChoice3 = 2131493147;
+			
+			// aapt resource value: 0x7f0c011c
+			public const int multipleChoice4 = 2131493148;
 			
 			// aapt resource value: 0x7f0c0044
 			public const int multiply = 2131492932;
 			
-			// aapt resource value: 0x7f0c00e2
-			public const int navigation_header_container = 2131493090;
+			// aapt resource value: 0x7f0c00e4
+			public const int navigation_header_container = 2131493092;
 			
 			// aapt resource value: 0x7f0c0057
 			public const int never = 2131492951;
@@ -5156,14 +5162,14 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			// aapt resource value: 0x7f0c003b
 			public const int normal = 2131492923;
 			
-			// aapt resource value: 0x7f0c012a
-			public const int notification_background = 2131493162;
+			// aapt resource value: 0x7f0c012c
+			public const int notification_background = 2131493164;
 			
-			// aapt resource value: 0x7f0c0124
-			public const int notification_main_column = 2131493156;
+			// aapt resource value: 0x7f0c0126
+			public const int notification_main_column = 2131493158;
 			
-			// aapt resource value: 0x7f0c0123
-			public const int notification_main_column_container = 2131493155;
+			// aapt resource value: 0x7f0c0125
+			public const int notification_main_column_container = 2131493157;
 			
 			// aapt resource value: 0x7f0c0074
 			public const int outline = 2131492980;
@@ -5180,8 +5186,8 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			// aapt resource value: 0x7f0c006c
 			public const int pin = 2131492972;
 			
-			// aapt resource value: 0x7f0c00d6
-			public const int progressBar = 2131493078;
+			// aapt resource value: 0x7f0c00d8
+			public const int progressBar = 2131493080;
 			
 			// aapt resource value: 0x7f0c0013
 			public const int progress_circular = 2131492883;
@@ -5195,11 +5201,11 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			// aapt resource value: 0x7f0c0069
 			public const int right = 2131492969;
 			
-			// aapt resource value: 0x7f0c0129
-			public const int right_icon = 2131493161;
+			// aapt resource value: 0x7f0c012b
+			public const int right_icon = 2131493163;
 			
-			// aapt resource value: 0x7f0c0125
-			public const int right_side = 2131493157;
+			// aapt resource value: 0x7f0c0127
+			public const int right_side = 2131493159;
 			
 			// aapt resource value: 0x7f0c0019
 			public const int save_image_matrix = 2131492889;
@@ -5258,11 +5264,11 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			// aapt resource value: 0x7f0c00ae
 			public const int search_voice_btn = 2131493038;
 			
-			// aapt resource value: 0x7f0c00c8
-			public const int seek_bar = 2131493064;
+			// aapt resource value: 0x7f0c00ca
+			public const int seek_bar = 2131493066;
 			
-			// aapt resource value: 0x7f0c00c4
-			public const int seek_bar_controls = 2131493060;
+			// aapt resource value: 0x7f0c00c6
+			public const int seek_bar_controls = 2131493062;
 			
 			// aapt resource value: 0x7f0c00af
 			public const int select_dialog_listview = 2131493039;
@@ -5282,8 +5288,8 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			// aapt resource value: 0x7f0c0041
 			public const int showTitle = 2131492929;
 			
-			// aapt resource value: 0x7f0c00dc
-			public const int smallLabel = 2131493084;
+			// aapt resource value: 0x7f0c00de
+			public const int smallLabel = 2131493086;
 			
 			// aapt resource value: 0x7f0c0023
 			public const int snackbar_action = 2131492899;
@@ -5318,14 +5324,14 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			// aapt resource value: 0x7f0c006a
 			public const int start = 2131492970;
 			
+			// aapt resource value: 0x7f0c00c7
+			public const int start_text = 2131493063;
+			
+			// aapt resource value: 0x7f0c0122
+			public const int status_bar_latest_event_content = 2131493154;
+			
 			// aapt resource value: 0x7f0c00c5
-			public const int start_text = 2131493061;
-			
-			// aapt resource value: 0x7f0c0120
-			public const int status_bar_latest_event_content = 2131493152;
-			
-			// aapt resource value: 0x7f0c00c3
-			public const int status_text = 2131493059;
+			public const int status_text = 2131493061;
 			
 			// aapt resource value: 0x7f0c006f
 			public const int stretch = 2131492975;
@@ -5336,14 +5342,14 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			// aapt resource value: 0x7f0c00ac
 			public const int submit_area = 2131493036;
 			
-			// aapt resource value: 0x7f0c00d5
-			public const int subtitle_view = 2131493077;
+			// aapt resource value: 0x7f0c00d7
+			public const int subtitle_view = 2131493079;
 			
 			// aapt resource value: 0x7f0c003c
 			public const int tabMode = 2131492924;
 			
-			// aapt resource value: 0x7f0c00d7
-			public const int tab_host = 2131493079;
+			// aapt resource value: 0x7f0c00d9
+			public const int tab_host = 2131493081;
 			
 			// aapt resource value: 0x7f0c002b
 			public const int tag_transition_group = 2131492907;
@@ -5369,14 +5375,14 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			// aapt resource value: 0x7f0c006e
 			public const int textStart = 2131492974;
 			
-			// aapt resource value: 0x7f0c00cf
-			public const int textTitle = 2131493071;
+			// aapt resource value: 0x7f0c00d1
+			public const int textTitle = 2131493073;
 			
-			// aapt resource value: 0x7f0c00e7
-			public const int text_input_password_toggle = 2131493095;
+			// aapt resource value: 0x7f0c00e9
+			public const int text_input_password_toggle = 2131493097;
 			
-			// aapt resource value: 0x7f0c00d8
-			public const int text_list_view = 2131493080;
+			// aapt resource value: 0x7f0c00da
+			public const int text_list_view = 2131493082;
 			
 			// aapt resource value: 0x7f0c0025
 			public const int textinput_counter = 2131492901;
@@ -5387,8 +5393,8 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			// aapt resource value: 0x7f0c0027
 			public const int textinput_helper_text = 2131492903;
 			
-			// aapt resource value: 0x7f0c0126
-			public const int time = 2131493158;
+			// aapt resource value: 0x7f0c0128
+			public const int time = 2131493160;
 			
 			// aapt resource value: 0x7f0c0030
 			public const int title = 2131492912;
@@ -5399,11 +5405,11 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			// aapt resource value: 0x7f0c0092
 			public const int title_template = 2131493010;
 			
-			// aapt resource value: 0x7f0c00d4
-			public const int title_view = 2131493076;
+			// aapt resource value: 0x7f0c00d6
+			public const int title_view = 2131493078;
 			
-			// aapt resource value: 0x7f0c00b9
-			public const int toolbar = 2131493049;
+			// aapt resource value: 0x7f0c00bb
+			public const int toolbar = 2131493051;
 			
 			// aapt resource value: 0x7f0c005a
 			public const int top = 2131492954;
@@ -5411,8 +5417,8 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			// aapt resource value: 0x7f0c0091
 			public const int topPanel = 2131493009;
 			
-			// aapt resource value: 0x7f0c00e0
-			public const int touch_outside = 2131493088;
+			// aapt resource value: 0x7f0c00e2
+			public const int touch_outside = 2131493090;
 			
 			// aapt resource value: 0x7f0c001c
 			public const int transition_current_scene = 2131492892;
@@ -5444,11 +5450,11 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 			// aapt resource value: 0x7f0c0028
 			public const int view_offset_helper = 2131492904;
 			
-			// aapt resource value: 0x7f0c012e
-			public const int visible = 2131493166;
+			// aapt resource value: 0x7f0c0130
+			public const int visible = 2131493168;
 			
-			// aapt resource value: 0x7f0c010a
-			public const int volume_item_container = 2131493130;
+			// aapt resource value: 0x7f0c010c
+			public const int volume_item_container = 2131493132;
 			
 			// aapt resource value: 0x7f0c0036
 			public const int wide = 2131492918;

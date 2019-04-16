@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using Android.App;
 using Android.Gms.Cast.Framework;
 using Android.OS;
@@ -8,12 +9,17 @@ using Android.Support.V4.App;
 using Android.Support.V7.App;
 using Android.Views;
 using Android.Widget;
+using Microsoft.AspNetCore.SignalR.Client;
 
 namespace KidsKnowQuizzes.KidsKnowAnimals
 {
     [Activity(Label = "@string/app_name", Theme = "@style/AppTheme.NoActionBar", MainLauncher = true)]
     public class MainActivity : FragmentActivity
     {
+        private HubConnection _connection;
+        private ListView _listView;
+        private Button _connectButton;
+        private ArrayAdapter _messages;
 
         protected override void OnCreate(Bundle savedInstanceState)
         {
@@ -44,7 +50,49 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 
             CastButtonFactory.SetUpMediaRouteButton(Application.Context, mediaRouteButton);
 
-            var castContext = CastContext.GetSharedInstance(this);
+            //var castContext = CastContext.GetSharedInstance(this);
+
+            _listView = FindViewById<ListView>(Resource.Id.messages);
+            _connectButton = FindViewById<Button>(Resource.Id.bConnect);
+
+            _messages = new ArrayAdapter(this, Android.Resource.Layout.SimpleListItem1, new List<string>());
+            _listView.Adapter = _messages;
+
+            _connectButton.Click += ConnectButton_Click;
+        }
+
+        private async void ConnectButton_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                _connection = new HubConnectionBuilder()
+                    .WithUrl("http://kidsknowquizzes.azurewebsites.net/hubs/quiz")
+                    //.WithUrl("http://james-pc/hubs/quiz")
+                    //.ConfigureLogging(logging => { logging.AddDebug(); })
+                    .Build();
+
+                _connection.On<string>("test", AppendMessage);
+
+                await _connection.StartAsync();
+
+                await _connection.SendAsync("RegisterTest", Guid.NewGuid());
+
+            }
+            catch (Exception ex)
+            {
+                AppendMessage($"An error occurred while connecting: {ex}");
+            }
+        }
+
+        private void AppendMessage(string message)
+        {
+            RunOnUiThread(() =>
+            {
+                _messages.Add(message);
+                _messages.NotifyDataSetChanged();
+
+                _listView.SmoothScrollToPosition(_messages.Count - 1);
+            });
         }
 
         public override bool OnCreateOptionsMenu(IMenu menu)
@@ -90,6 +138,6 @@ namespace KidsKnowQuizzes.KidsKnowAnimals
 
             base.OnRequestPermissionsResult(requestCode, permissions, grantResults);
         }
-	}
+    }
 }
 

@@ -5,7 +5,7 @@ import { Home } from './home';
 Home.startApplication();
 
 if (module.hot) {
-    module.hot.accept('./Home', () => {
+    module.hot.accept('./home', () => {
         Home.startApplication();
     });
 }
