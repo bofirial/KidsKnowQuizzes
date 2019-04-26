@@ -63,13 +63,15 @@ namespace KidsKnowQuizzes
 
             app.UseHttpsRedirection();
 
-            app.UseRouting(routes =>
+            app.UseRouting();
+
+            app.UseStaticFiles();
+
+            app.UseEndpoints(routes =>
             {
                 routes.MapControllers();
                 routes.MapHub<QuizHub>("/hubs/quiz");
             });
-
-            app.UseStaticFiles();
         }
     }
 }
